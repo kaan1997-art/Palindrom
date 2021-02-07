@@ -1,0 +1,7 @@
+C:\Users\KAAN\source\repos\Palindrom1\Palindrom1\bin\Debug\Palindrom1.exe.config
+C:\Users\KAAN\source\repos\Palindrom1\Palindrom1\bin\Debug\Palindrom1.exe
+C:\Users\KAAN\source\repos\Palindrom1\Palindrom1\bin\Debug\Palindrom1.pdb
+C:\Users\KAAN\source\repos\Palindrom1\Palindrom1\obj\Debug\Palindrom1.csprojAssemblyReference.cache
+C:\Users\KAAN\source\repos\Palindrom1\Palindrom1\obj\Debug\Palindrom1.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\repos\Palindrom1\Palindrom1\obj\Debug\Palindrom1.exe
+C:\Users\KAAN\source\repos\Palindrom1\Palindrom1\obj\Debug\Palindrom1.pdb
